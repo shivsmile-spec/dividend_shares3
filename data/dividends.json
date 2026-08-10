@@ -1,5 +1,5 @@
 {
-  "updated": "10 Aug 2026, 11:46 AM IST",
+  "updated": "10 Aug 2026, 03:34 PM IST",
   "events": [
     {
       "symbol": "AVTNPL",
@@ -605,17 +605,6 @@
       "price": 172.62,
       "rsi": 37.72599899447779,
       "dividendYield": 0.8689607229753215
-    },
-    {
-      "symbol": "SKIPPER",
-      "company": "Skipper Limited",
-      "dividend": 0.1,
-      "exDate": "2026-08-17",
-      "recordDate": "2026-08-17",
-      "purpose": "Dividend - Re 0.10 Per Share",
-      "price": 529.0,
-      "rsi": 47.68147852982292,
-      "dividendYield": 0.01890359168241966
     },
     {
       "symbol": "GILLETTE",
