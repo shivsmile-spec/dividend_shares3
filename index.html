@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>India Upcoming Dividend Scanner</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#f3f6fa;color:#172033;font-family:Arial,sans-serif}
+header{background:#101827;color:#fff;padding:22px}header h1{margin:0 0 6px;font-size:27px}header p{margin:0;color:#cbd5e1}
+main{max-width:1450px;margin:auto;padding:18px}.card{background:#fff;border-radius:14px;padding:18px;margin-bottom:16px;box-shadow:0 2px 12px #0001}
+.toolbar{display:flex;gap:10px;align-items:center;flex-wrap:wrap}button,select{padding:10px 13px;border:1px solid #cbd5e1;border-radius:9px;background:#fff;font-weight:600;cursor:pointer}button{background:#111827;color:#fff}
+.status{margin-top:12px;padding:11px;border-radius:9px;background:#f8fafc;color:#667085}.ok{color:#087f5b}.err{color:#b42318}
+.progressbox{margin-top:12px}.progress{height:13px;background:#e5e7eb;border-radius:999px;overflow:hidden}.bar{height:100%;width:0;background:#2563eb;transition:width .25s}.pct{text-align:right;font-size:12px;color:#667085;margin-top:4px}
+.stats{display:grid;grid-template-columns:repeat(5,1fr);gap:10px;margin-top:13px}.stat{background:#f8fafc;border-radius:10px;padding:12px}.stat span{display:block;color:#667085;font-size:12px}.stat b{display:block;font-size:20px;margin-top:4px}
+.wrap{overflow:auto;margin-top:12px}table{border-collapse:collapse;width:100%;min-width:1180px}th,td{padding:11px 9px;border-bottom:1px solid #e5e7eb;text-align:left;font-size:14px}th{background:#f8fafc;position:sticky;top:0}.pill{padding:4px 8px;border-radius:999px;background:#eef2ff}.rsiLow{color:#2563eb;font-weight:bold}.rsiMid{color:#087f5b;font-weight:bold}.rsiHigh{color:#c2410c;font-weight:bold}
+.ybar{width:90px;height:8px;background:#e5e7eb;border-radius:9px;overflow:hidden}.yfill{height:100%;background:#087f5b}.small{font-size:12px;color:#667085;line-height:1.5}.center{text-align:center;padding:30px;color:#667085}
+@media(max-width:800px){.stats{grid-template-columns:repeat(2,1fr)}header h1{font-size:22px}}
+</style>
+</head>
+<body>
+<header><h1>🇮🇳 India Upcoming Dividend Scanner</h1><p>Automatic market-wide dividend calendar — no stock name required.</p></header>
+<main>
+<div class="card">
+<div class="toolbar">Look ahead:
+<select id="days"><option value="30">30 days</option><option value="60" selected>60 days</option><option value="90">90 days</option></select>
+<button onclick="load()">↻ Refresh data</button></div>
+<div id="status" class="status">Loading saved market data…</div>
+<div class="progressbox"><div class="progress"><div id="bar" class="bar"></div></div><div id="pct" class="pct">0%</div></div>
+<div class="stats">
+<div class="stat"><span>Dividend stocks</span><b id="stocks">—</b></div>
+<div class="stat"><span>Upcoming events</span><b id="events">—</b></div>
+<div class="stat"><span>Highest dividend</span><b id="highest">—</b></div>
+<div class="stat"><span>Earliest ex-date</span><b id="earliest">—</b></div>
+<div class="stat"><span>Data updated</span><b id="updated">—</b></div>
+</div>
+</div>
+
+<div class="card"><h2 style="margin-top:0">Upcoming Dividends</h2>
+<div class="small">Sorted by nearest ex-date. RSI is calculated from daily prices. Dividend yield is based on the announced dividend amount and current price.</div>
+<div class="wrap"><table><thead><tr>
+<th>Stock</th><th>Company</th><th>Dividend</th><th>Ex-Date</th><th>Record Date</th><th>Days Left</th><th>Price</th><th>RSI (14)</th><th>Dividend %</th><th>Yield bar</th><th>NSE</th>
+</tr></thead><tbody id="rows"><tr><td colspan="11" class="center">Loading…</td></tr></tbody></table></div>
+</div>
+<div class="card small"><b>How this version works:</b> GitHub Actions downloads the market data in the background and saves it as JSON. The webpage reads that JSON, so it does not depend on Yahoo/NSE browser CORS permissions. The blue percentage bar above shows the page's loading progress; the green bar in each row visualizes dividend amount as a percentage of the current share price.<br><br><b>Important:</b> Always verify the final ex-date/record date on NSE before making an investment decision.</div>
+</main>
+<script>
+let data=[];
+const $=id=>document.getElementById(id);
+function setProgress(n,msg){$("bar").style.width=n+"%";$("pct").textContent=n+"%";if(msg)$("status").textContent=msg}
+function fmtDate(s){if(!s)return"—";let d=new Date(s);return isNaN(d)?"—":d.toLocaleDateString("en-IN",{day:"2-digit",month:"short",year:"numeric"})}
+function esc(s){return String(s??"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[m]))}
+function load(){
+setProgress(10,"Reading latest automatic market data…");
+fetch("data/dividends.json?ts="+Date.now()).then(r=>{if(!r.ok)throw Error("No data file");return r.json()}).then(j=>{
+setProgress(45,"Filtering upcoming dividends…");
+data=j.events||[];let cutoff=Date.now()+Number($("days").value)*86400000;
+data=data.filter(x=>x.exDate&&new Date(x.exDate)>=new Date(new Date().setHours(0,0,0,0))&&new Date(x.exDate)<=new Date(cutoff)).sort((a,b)=>new Date(a.exDate)-new Date(b.exDate));
+setProgress(70,"Calculating display metrics…");
+$("stocks").textContent=new Set(data.map(x=>x.symbol)).size;$("events").textContent=data.length;
+$("highest").textContent=data.length?("₹"+Math.max(...data.map(x=>Number(x.dividend)||0)).toLocaleString("en-IN")):"—";
+$("earliest").textContent=data[0]?fmtDate(data[0].exDate):"None";$("updated").textContent=j.updated||"—";
+let tb=$("rows");tb.innerHTML="";
+if(!data.length){tb.innerHTML='<tr><td colspan="11" class="center">No upcoming dividend events in this selected period.</td></tr>'}
+let max=Math.max(...data.map(x=>Number(x.dividendYield)||0),1);
+data.forEach(x=>{
+let ex=new Date(x.exDate),days=Math.max(0,Math.ceil((ex-new Date(new Date().setHours(0,0,0,0)))/86400000)),r=Number(x.rsi),rc=r<30?"rsiLow":r>70?"rsiHigh":"rsiMid",y=Number(x.dividendYield)||0,w=Math.min(100,y/max*100);
+tb.insertAdjacentHTML("beforeend",`<tr><td><b>${esc(x.symbol)}</b></td><td>${esc(x.company)}</td><td>₹${Number(x.dividend||0).toLocaleString("en-IN",{maximumFractionDigits:2})}</td><td><span class="pill">${fmtDate(x.exDate)}</span></td><td>${fmtDate(x.recordDate)}</td><td>${days===0?"Today":days+" days"}</td><td>${x.price?"₹"+Number(x.price).toLocaleString("en-IN",{maximumFractionDigits:2}):"—"}</td><td class="${rc}">${isFinite(r)?r.toFixed(1):"—"}</td><td>${y.toFixed(2)}%</td><td><div class="ybar"><div class="yfill" style="width:${w}%"></div></div></td><td><a target="_blank" href="https://www.nseindia.com/get-quotes/equity?symbol=${encodeURIComponent(x.symbol)}">Open ↗</a></td></tr>`)
+});
+setProgress(100,"Scan complete — data loaded automatically.");
+$("status").className="status ok";
+}).catch(e=>{setProgress(100,"No saved data file is available yet.");$("status").className="status err";$("rows").innerHTML='<tr><td colspan="11" class="center">The automatic data update has not run yet. Enable the GitHub Action supplied with this version, then refresh.</td></tr>'})
+}
+load();
+</script>
+</body></html>
