@@ -1,5 +1,5 @@
 {
-  "updated": "19 Aug 2026, 03:16 AM IST",
+  "updated": "19 Aug 2026, 08:04 AM IST",
   "events": [
     {
       "symbol": "ECOSMOBLTY",
@@ -8,9 +8,9 @@
       "exDate": "2026-08-18",
       "recordDate": "2026-08-18",
       "purpose": "Dividend - Rs 2.38 Per Share",
-      "price": 112.58,
-      "rsi": 31.837270715631576,
-      "dividendYield": 2.1140522295256705
+      "price": 112.0,
+      "rsi": 27.26771239853973,
+      "dividendYield": 2.125
     },
     {
       "symbol": "JMA",
@@ -19,9 +19,9 @@
       "exDate": "2026-08-18",
       "recordDate": "2026-08-18",
       "purpose": "Dividend - Rs 2 Per Share & Special Dividend Re 1 Per Share",
-      "price": 87.56,
-      "rsi": 51.901512062605015,
-      "dividendYield": 2.284148012791229
+      "price": 90.0,
+      "rsi": 54.58943353765128,
+      "dividendYield": 2.2222222222222223
     },
     {
       "symbol": "MGL",
@@ -30,9 +30,9 @@
       "exDate": "2026-08-18",
       "recordDate": "2026-08-18",
       "purpose": "Dividend - Rs 18 Per Share",
-      "price": 1111.4,
-      "rsi": 52.41980755414935,
-      "dividendYield": 1.6195789094835342
+      "price": 1146.0,
+      "rsi": 57.39777580512093,
+      "dividendYield": 1.5706806282722512
     },
     {
       "symbol": "NGLFINE",
@@ -41,9 +41,9 @@
       "exDate": "2026-08-18",
       "recordDate": "2026-08-18",
       "purpose": "Dividend - Rs 1.75 Per Share",
-      "price": 3023.5,
-      "rsi": 33.81098801688384,
-      "dividendYield": 0.057879940466346945
+      "price": 3055.0,
+      "rsi": 42.18555035866905,
+      "dividendYield": 0.057283142389525366
     },
     {
       "symbol": "ROSSELLIND",
@@ -52,9 +52,9 @@
       "exDate": "2026-08-18",
       "recordDate": "2026-08-18",
       "purpose": "Dividend - Re 0.40 Per Share",
-      "price": 56.9,
-      "rsi": 45.072589379848985,
-      "dividendYield": 0.70298769771529
+      "price": 56.0,
+      "rsi": 43.96430652839318,
+      "dividendYield": 0.7142857142857143
     },
     {
       "symbol": "ROUTE",
@@ -63,9 +63,9 @@
       "exDate": "2026-08-18",
       "recordDate": "2026-08-18",
       "purpose": "Dividend - Rs 2 Per Share",
-      "price": 499.45,
-      "rsi": 35.22933880499532,
-      "dividendYield": 0.4004404845329863
+      "price": 500.3,
+      "rsi": 35.31926117546661,
+      "dividendYield": 0.3997601439136518
     },
     {
       "symbol": "RVNL",
@@ -74,9 +74,9 @@
       "exDate": "2026-08-18",
       "recordDate": "2026-08-18",
       "purpose": "Dividend - Re 0.71 Per Share",
-      "price": 225.0,
-      "rsi": 41.720961919616066,
-      "dividendYield": 0.31555555555555553
+      "price": 224.03,
+      "rsi": 40.68449314444724,
+      "dividendYield": 0.3169218408248895
     },
     {
       "symbol": "STYL",
@@ -85,9 +85,9 @@
       "exDate": "2026-08-18",
       "recordDate": "2026-08-18",
       "purpose": "Dividend - Rs 2.50 Per Share",
-      "price": 393.95,
-      "rsi": 58.424469217693286,
-      "dividendYield": 0.634598299276558
+      "price": 376.0,
+      "rsi": 49.43497382846895,
+      "dividendYield": 0.6648936170212766
     },
     {
       "symbol": "SUNTV",
@@ -96,9 +96,9 @@
       "exDate": "2026-08-18",
       "recordDate": "2026-08-18",
       "purpose": "Interim Dividend - Rs 5 Per Share",
-      "price": 482.8,
-      "rsi": 40.91441010439851,
-      "dividendYield": 1.035625517812759
+      "price": 481.65,
+      "rsi": 40.24965259131488,
+      "dividendYield": 1.038098204090107
     },
     {
       "symbol": "SYRMA",
@@ -107,9 +107,9 @@
       "exDate": "2026-08-18",
       "recordDate": "2026-08-18",
       "purpose": "Dividend - Rs 1.50 Per Share",
-      "price": 1500.1,
-      "rsi": 63.3912428774218,
-      "dividendYield": 0.09999333377774815
+      "price": 1489.4,
+      "rsi": 61.274351763938604,
+      "dividendYield": 0.10071169598496038
     },
     {
       "symbol": "THEJO",
@@ -118,9 +118,9 @@
       "exDate": "2026-08-18",
       "recordDate": "2026-08-18",
       "purpose": "Dividend - Rs 5 Per Share",
-      "price": 2051.4,
-      "rsi": 59.65792530395765,
-      "dividendYield": 0.2437359851808521
+      "price": 2137.6,
+      "rsi": 61.14990861276904,
+      "dividendYield": 0.23390718562874255
     },
     {
       "symbol": "BATAINDIA",
@@ -129,9 +129,9 @@
       "exDate": "2026-08-19",
       "recordDate": "2026-08-19",
       "purpose": "Interim Dividend - Rs 25 Per Share",
-      "price": 753.1,
-      "rsi": 64.78189228345147,
-      "dividendYield": 3.319612269286947
+      "price": 717.0,
+      "rsi": 50.61752580103046,
+      "dividendYield": 3.486750348675035
     },
     {
       "symbol": "CESC",
@@ -140,9 +140,9 @@
       "exDate": "2026-08-19",
       "recordDate": "2026-08-19",
       "purpose": "Interim Dividend - Rs 6 Per Share",
-      "price": 167.98,
-      "rsi": 55.32118616038141,
-      "dividendYield": 3.5718537921181097
+      "price": 158.78,
+      "rsi": 39.19529680136873,
+      "dividendYield": 3.778813452575891
     },
     {
       "symbol": "CUBEINVIT",
@@ -162,9 +162,9 @@
       "exDate": "2026-08-19",
       "recordDate": "2026-08-19",
       "purpose": "Interim Dividend - Re 0.50 Per Share",
-      "price": 1147.2,
-      "rsi": 38.00411199947983,
-      "dividendYield": 0.04358437935843794
+      "price": 1122.0,
+      "rsi": 34.6837404183764,
+      "dividendYield": 0.044563279857397504
     },
     {
       "symbol": "FLAIR",
@@ -173,9 +173,9 @@
       "exDate": "2026-08-19",
       "recordDate": "2026-08-19",
       "purpose": "Dividend - Re 0.50 Per Share",
-      "price": 252.05,
-      "rsi": 44.33390394718614,
-      "dividendYield": 0.19837333862328904
+      "price": 250.1,
+      "rsi": 42.1770804512917,
+      "dividendYield": 0.19992003198720512
     },
     {
       "symbol": "GULFPETRO",
@@ -184,9 +184,9 @@
       "exDate": "2026-08-19",
       "recordDate": "2026-08-19",
       "purpose": "Dividend - Re 0.50 Per Share",
-      "price": 62.81,
-      "rsi": 76.87671618677814,
-      "dividendYield": 0.7960515841426523
+      "price": 65.0,
+      "rsi": 80.2694677011886,
+      "dividendYield": 0.7692307692307693
     },
     {
       "symbol": "HONDAPOWER",
@@ -195,9 +195,9 @@
       "exDate": "2026-08-19",
       "recordDate": "2026-08-19",
       "purpose": "Dividend - Rs 23 Per Share",
-      "price": 2111.2,
-      "rsi": 47.41845455902218,
-      "dividendYield": 1.0894278135657447
+      "price": 2086.1,
+      "rsi": 42.70119060203647,
+      "dividendYield": 1.1025358324145536
     },
     {
       "symbol": "JAYBARMARU",
@@ -206,9 +206,9 @@
       "exDate": "2026-08-19",
       "recordDate": "2026-08-19",
       "purpose": "Dividend - Re 0.70  Per Share",
-      "price": 130.42,
-      "rsi": 33.01703970934999,
-      "dividendYield": 0.5367274957828554
+      "price": 125.44,
+      "rsi": 31.91220879163494,
+      "dividendYield": 0.5580357142857143
     },
     {
       "symbol": "JKPAPER",
@@ -217,9 +217,9 @@
       "exDate": "2026-08-19",
       "recordDate": "2026-08-19",
       "purpose": "Dividend - Rs 4 Per Share",
-      "price": 385.45,
-      "rsi": 52.62221388687716,
-      "dividendYield": 1.0377480866519653
+      "price": 380.5,
+      "rsi": 49.251829082894645,
+      "dividendYield": 1.0512483574244416
     },
     {
       "symbol": "KOVAI",
@@ -228,9 +228,9 @@
       "exDate": "2026-08-19",
       "recordDate": "2026-08-19",
       "purpose": "Dividend - Rs 15 Per Share",
-      "price": 6013.0,
-      "rsi": 59.29396177561421,
-      "dividendYield": 0.2494595044071179
+      "price": 6000.0,
+      "rsi": 53.59997303855693,
+      "dividendYield": 0.25
     },
     {
       "symbol": "LGBBROSLTD",
@@ -239,9 +239,9 @@
       "exDate": "2026-08-19",
       "recordDate": "2026-08-19",
       "purpose": "Dividend - Rs 22 Per Share",
-      "price": 1603.1,
-      "rsi": 60.0072414689621,
-      "dividendYield": 1.3723410891397918
+      "price": 1600.2,
+      "rsi": 59.416412459789846,
+      "dividendYield": 1.3748281464816898
     },
     {
       "symbol": "NDRINVIT",
@@ -272,9 +272,9 @@
       "exDate": "2026-08-19",
       "recordDate": "2026-08-19",
       "purpose": "Interim Dividend - Rs 200 Per Share",
-      "price": 36425.0,
-      "rsi": 32.0751621141748,
-      "dividendYield": 0.5490734385724091
+      "price": 35595.0,
+      "rsi": 28.79075690510075,
+      "dividendYield": 0.5618766680713584
     },
     {
       "symbol": "TAMBOLIIN",
@@ -283,9 +283,9 @@
       "exDate": "2026-08-19",
       "recordDate": "2026-08-19",
       "purpose": "Dividend - Rs 1.20 Per Share",
-      "price": 259.34,
-      "rsi": 74.2673341367493,
-      "dividendYield": 0.46271304079586645
+      "price": 254.5,
+      "rsi": 72.1809145562045,
+      "dividendYield": 0.4715127701375246
     },
     {
       "symbol": "COASTCORP",
@@ -294,9 +294,31 @@
       "exDate": "2026-08-20",
       "recordDate": "2026-08-20",
       "purpose": "Dividend - Rs 0.28 Per Share",
-      "price": 41.92,
-      "rsi": 27.04810476975382,
-      "dividendYield": 0.66793893129771
+      "price": 41.7,
+      "rsi": 25.862796981253936,
+      "dividendYield": 0.6714628297362111
+    },
+    {
+      "symbol": "DAICHI",
+      "company": "Dai-Ichi Karkaria Limited",
+      "dividend": 1.5,
+      "exDate": "2026-08-20",
+      "recordDate": "2026-08-20",
+      "purpose": "Dividend - Rs 1.50 Per Share",
+      "price": 325.3,
+      "rsi": 56.31921410199149,
+      "dividendYield": 0.46111281893636646
+    },
+    {
+      "symbol": "KAMAHOLD",
+      "company": "Kama Holdings Limited",
+      "dividend": 22.25,
+      "exDate": "2026-08-20",
+      "recordDate": "2026-08-20",
+      "purpose": "Interim Dividend - Rs 22.25 Per Share",
+      "price": 2440.0,
+      "rsi": 35.413710475352474,
+      "dividendYield": 0.9118852459016393
     },
     {
       "symbol": "KUANTUM",
@@ -305,9 +327,9 @@
       "exDate": "2026-08-20",
       "recordDate": "2026-08-20",
       "purpose": "Dividend - Rs 2.50 Per Share",
-      "price": 79.79,
-      "rsi": 49.5734976020012,
-      "dividendYield": 3.1332247148765506
+      "price": 79.1,
+      "rsi": 47.60392629980434,
+      "dividendYield": 3.160556257901391
     },
     {
       "symbol": "LAOPALA",
@@ -316,9 +338,9 @@
       "exDate": "2026-08-20",
       "recordDate": "2026-08-20",
       "purpose": "Dividend - Rs 5 Per Share",
-      "price": 189.31,
-      "rsi": 54.688606235335335,
-      "dividendYield": 2.6411705667952035
+      "price": 188.6,
+      "rsi": 50.3187508215276,
+      "dividendYield": 2.651113467656416
     },
     {
       "symbol": "MARKSANS",
@@ -327,9 +349,9 @@
       "exDate": "2026-08-20",
       "recordDate": "2026-08-20",
       "purpose": "Dividend - Re 0.90 Per Share",
-      "price": 326.5,
-      "rsi": 72.20712320898926,
-      "dividendYield": 0.2756508422664625
+      "price": 324.5,
+      "rsi": 70.14768195319482,
+      "dividendYield": 0.2773497688751926
     },
     {
       "symbol": "MAZDOCK",
@@ -338,9 +360,9 @@
       "exDate": "2026-08-20",
       "recordDate": "2026-08-20",
       "purpose": "Dividend - Rs 4.62 Per Share",
-      "price": 2587.0,
-      "rsi": 66.69951287456774,
-      "dividendYield": 0.1785852338616158
+      "price": 2553.5,
+      "rsi": 61.17000051288995,
+      "dividendYield": 0.18092813785000977
     },
     {
       "symbol": "MUNJALAU",
@@ -349,9 +371,9 @@
       "exDate": "2026-08-20",
       "recordDate": "2026-08-20",
       "purpose": "Dividend - Re 1 Per Share",
-      "price": 118.39,
-      "rsi": 72.27334025178469,
-      "dividendYield": 0.8446659346228567
+      "price": 114.61,
+      "rsi": 61.95819468067893,
+      "dividendYield": 0.8725242125468982
     },
     {
       "symbol": "NATCOPHARM",
@@ -360,9 +382,9 @@
       "exDate": "2026-08-20",
       "recordDate": "2026-08-20",
       "purpose": "Interim Dividend - Rs 1.50 Per Share",
-      "price": 898.35,
-      "rsi": 42.66725477634458,
-      "dividendYield": 0.16697278343629987
+      "price": 889.0,
+      "rsi": 40.31159737781256,
+      "dividendYield": 0.1687289088863892
     },
     {
       "symbol": "NIITLTD",
@@ -371,9 +393,9 @@
       "exDate": "2026-08-20",
       "recordDate": "2026-08-20",
       "purpose": "Dividend - Re 1 Per Share",
-      "price": 93.08,
-      "rsi": 49.06006520940769,
-      "dividendYield": 1.0743446497636442
+      "price": 93.61,
+      "rsi": 45.10285290492522,
+      "dividendYield": 1.0682619378271552
     },
     {
       "symbol": "NIITMTS",
@@ -382,9 +404,9 @@
       "exDate": "2026-08-20",
       "recordDate": "2026-08-20",
       "purpose": "Dividend - Rs 3.25 Per Share",
-      "price": 235.53,
-      "rsi": 48.0078002565742,
-      "dividendYield": 1.3798666836496412
+      "price": 236.5,
+      "rsi": 45.579318208374815,
+      "dividendYield": 1.3742071881606766
     },
     {
       "symbol": "OCCLLTD",
@@ -393,9 +415,9 @@
       "exDate": "2026-08-20",
       "recordDate": "2026-08-20",
       "purpose": "Dividend - Rs 1.80 Per Share",
-      "price": 164.81,
-      "rsi": 57.54985055025948,
-      "dividendYield": 1.0921667374552515
+      "price": 164.59,
+      "rsi": 62.69123475198092,
+      "dividendYield": 1.0936265872774773
     },
     {
       "symbol": "SHIVATEX",
@@ -404,9 +426,9 @@
       "exDate": "2026-08-20",
       "recordDate": "2026-08-20",
       "purpose": "Dividend - Re 0.60 Per Share",
-      "price": 165.86,
-      "rsi": 56.29361378426383,
-      "dividendYield": 0.36175087423127933
+      "price": 166.01,
+      "rsi": 61.668608352595456,
+      "dividendYield": 0.361424010601771
     },
     {
       "symbol": "SUKHJITS",
@@ -415,9 +437,9 @@
       "exDate": "2026-08-20",
       "recordDate": "2026-08-20",
       "purpose": "Dividend - Re 1 Per Share",
-      "price": 159.09,
-      "rsi": 41.46738095914841,
-      "dividendYield": 0.6285750204286882
+      "price": 159.1,
+      "rsi": 41.773259333375236,
+      "dividendYield": 0.6285355122564426
     },
     {
       "symbol": "DEEPINDS",
@@ -426,9 +448,9 @@
       "exDate": "2026-08-21",
       "recordDate": "2026-08-21",
       "purpose": "Dividend - Rs 2.50 Per Share",
-      "price": 717.95,
-      "rsi": 77.06833010037342,
-      "dividendYield": 0.3482136639041716
+      "price": 693.0,
+      "rsi": 69.63320297721691,
+      "dividendYield": 0.36075036075036077
     },
     {
       "symbol": "ECLERX",
@@ -437,9 +459,9 @@
       "exDate": "2026-08-21",
       "recordDate": "2026-08-21",
       "purpose": "Dividend - Re 1 Per Share",
-      "price": 1805.2,
-      "rsi": 55.74507269021684,
-      "dividendYield": 0.05539552404165743
+      "price": 1851.0,
+      "rsi": 55.29875861100952,
+      "dividendYield": 0.05402485143165856
     },
     {
       "symbol": "GVT&D",
@@ -448,9 +470,9 @@
       "exDate": "2026-08-21",
       "recordDate": "2026-08-21",
       "purpose": "Dividend - Rs 10 Per Share",
-      "price": 4195.0,
-      "rsi": 40.37293601770684,
-      "dividendYield": 0.23837902264600713
+      "price": 4126.0,
+      "rsi": 37.75333888299322,
+      "dividendYield": 0.24236548715462916
     },
     {
       "symbol": "JINDALSTEL",
@@ -459,9 +481,9 @@
       "exDate": "2026-08-21",
       "recordDate": "2026-08-21",
       "purpose": "Dividend - Rs 2 Per Share",
-      "price": 1101.5,
-      "rsi": 52.75419584352493,
-      "dividendYield": 0.18157058556513844
+      "price": 1117.0,
+      "rsi": 56.537935728871666,
+      "dividendYield": 0.17905102954341987
     },
     {
       "symbol": "JSL",
@@ -470,9 +492,9 @@
       "exDate": "2026-08-21",
       "recordDate": "2026-08-21",
       "purpose": "Dividend - Rs 3 Per Share",
-      "price": 732.4,
-      "rsi": 52.10029795131438,
-      "dividendYield": 0.4096122337520481
+      "price": 725.25,
+      "rsi": 48.17240289860611,
+      "dividendYield": 0.4136504653567736
     },
     {
       "symbol": "KALYANIFRG",
@@ -481,9 +503,9 @@
       "exDate": "2026-08-21",
       "recordDate": "2026-08-21",
       "purpose": "Dividend - Rs 4 Per Share",
-      "price": 639.2,
-      "rsi": 53.28479653003256,
-      "dividendYield": 0.6257822277847309
+      "price": 680.0,
+      "rsi": 62.27257316080737,
+      "dividendYield": 0.5882352941176471
     },
     {
       "symbol": "LICHSGFIN",
@@ -492,9 +514,9 @@
       "exDate": "2026-08-21",
       "recordDate": "2026-08-21",
       "purpose": "Dividend - Rs 10 Per Share",
-      "price": 498.8,
-      "rsi": 32.701359340824084,
-      "dividendYield": 2.0048115477145148
+      "price": 498.65,
+      "rsi": 32.58604610978756,
+      "dividendYield": 2.0054146194725764
     },
     {
       "symbol": "MAYURUNIQ",
@@ -503,9 +525,9 @@
       "exDate": "2026-08-21",
       "recordDate": "2026-08-21",
       "purpose": "Dividend - Rs 6 Per Sh",
-      "price": 726.1,
-      "rsi": 35.237745486259485,
-      "dividendYield": 0.8263324610935133
+      "price": 757.35,
+      "rsi": 43.91735316698007,
+      "dividendYield": 0.7922360863537333
     },
     {
       "symbol": "PATANJALI",
@@ -514,9 +536,9 @@
       "exDate": "2026-08-21",
       "recordDate": "2026-08-21",
       "purpose": "Interim Dividend - Rs 1.50 Per Share",
-      "price": 351.65,
-      "rsi": 36.62233611034039,
-      "dividendYield": 0.426560500497654
+      "price": 350.35,
+      "rsi": 36.59772806411695,
+      "dividendYield": 0.42814328528614237
     },
     {
       "symbol": "POWERINDIA",
@@ -525,9 +547,9 @@
       "exDate": "2026-08-21",
       "recordDate": "2026-08-21",
       "purpose": "Dividend - Rs 8 Per Share",
-      "price": 35275.0,
-      "rsi": 58.97945374926145,
-      "dividendYield": 0.022678951098511695
+      "price": 33760.0,
+      "rsi": 50.31566490515033,
+      "dividendYield": 0.023696682464454978
     },
     {
       "symbol": "SEAMECLTD",
@@ -536,9 +558,9 @@
       "exDate": "2026-08-21",
       "recordDate": "2026-08-21",
       "purpose": "Dividend - Rs 2 Per Share",
-      "price": 1574.7,
-      "rsi": 67.51553947712193,
-      "dividendYield": 0.12700831904489743
+      "price": 1643.7,
+      "rsi": 75.25750212752904,
+      "dividendYield": 0.12167670499482874
     },
     {
       "symbol": "SHRADHA",
@@ -547,9 +569,9 @@
       "exDate": "2026-08-21",
       "recordDate": "2026-08-21",
       "purpose": "Dividend - Re 0.60 Per Share",
-      "price": 33.78,
-      "rsi": 49.26347809865911,
-      "dividendYield": 1.7761989342806392
+      "price": 33.54,
+      "rsi": 45.388583926534565,
+      "dividendYield": 1.7889087656529516
     },
     {
       "symbol": "SOTL",
@@ -558,9 +580,9 @@
       "exDate": "2026-08-21",
       "recordDate": "2026-08-21",
       "purpose": "Dividend - Rs 5 Per Share",
-      "price": 718.4,
-      "rsi": 57.81326032998453,
-      "dividendYield": 0.6959910913140313
+      "price": 701.4,
+      "rsi": 59.040455069359126,
+      "dividendYield": 0.7128599942971201
     },
     {
       "symbol": "SURYAROSNI",
@@ -569,9 +591,9 @@
       "exDate": "2026-08-21",
       "recordDate": "2026-08-21",
       "purpose": "Dividend - Rs 2.50 Per Share",
-      "price": 223.44,
-      "rsi": 29.54559953139851,
-      "dividendYield": 1.1188686000716077
+      "price": 221.25,
+      "rsi": 29.399656343572786,
+      "dividendYield": 1.1299435028248588
     },
     {
       "symbol": "VADILALIND",
@@ -580,9 +602,9 @@
       "exDate": "2026-08-21",
       "recordDate": "2026-08-21",
       "purpose": "Interim Dividend - Rs 17 Per Share",
-      "price": 7429.5,
-      "rsi": 59.93923620788855,
-      "dividendYield": 0.2288175516521973
+      "price": 7387.5,
+      "rsi": 59.094394828921125,
+      "dividendYield": 0.23011844331641287
     },
     {
       "symbol": "VISHNU",
@@ -591,9 +613,9 @@
       "exDate": "2026-08-21",
       "recordDate": "2026-08-21",
       "purpose": "Dividend - Re 0.30 Per Share",
-      "price": 637.5,
-      "rsi": 62.80571822639153,
-      "dividendYield": 0.047058823529411764
+      "price": 624.0,
+      "rsi": 56.24475809519535,
+      "dividendYield": 0.04807692307692307
     },
     {
       "symbol": "ZENTEC",
@@ -602,9 +624,9 @@
       "exDate": "2026-08-21",
       "recordDate": "2026-08-21",
       "purpose": "Dividend - Re 1 Per Share",
-      "price": 1982.4,
-      "rsi": 71.19163654247171,
-      "dividendYield": 0.05044390637610976
+      "price": 1934.5,
+      "rsi": 64.58121754753503,
+      "dividendYield": 0.051692943913155855
     },
     {
       "symbol": "GILLETTE",
@@ -613,9 +635,53 @@
       "exDate": "2026-08-24",
       "recordDate": "2026-08-24",
       "purpose": "Dividend - Rs 60 Per Share",
-      "price": 7517.5,
-      "rsi": 39.74364488829897,
-      "dividendYield": 0.7981376787495843
+      "price": 7505.0,
+      "rsi": 35.92942588939948,
+      "dividendYield": 0.7994670219853431
+    },
+    {
+      "symbol": "IGIL",
+      "company": "International Gemological Institute Limited",
+      "dividend": 2.55,
+      "exDate": "2026-08-24",
+      "recordDate": "2026-08-24",
+      "purpose": "Interim Dividend - Rs 2.55 Per Share",
+      "price": 340.2,
+      "rsi": 43.34946847485553,
+      "dividendYield": 0.7495590828924161
+    },
+    {
+      "symbol": "NATIONALUM",
+      "company": "National Aluminium Company Limited",
+      "dividend": 1.0,
+      "exDate": "2026-08-24",
+      "recordDate": "2026-08-24",
+      "purpose": "Dividend - Re 1 Per Share",
+      "price": 384.4,
+      "rsi": 55.08743261152383,
+      "dividendYield": 0.2601456815816858
+    },
+    {
+      "symbol": "DEEPAKFERT",
+      "company": "Deepak Fertilizers and Petrochemicals Corporation Limited",
+      "dividend": 10.0,
+      "exDate": "2026-08-25",
+      "recordDate": "2026-08-25",
+      "purpose": "Dividend - Rs 10 Per Share",
+      "price": 1459.9,
+      "rsi": 38.92694443978245,
+      "dividendYield": 0.6849784231796698
+    },
+    {
+      "symbol": "SBCL",
+      "company": "Shivalik Bimetal Controls Limited",
+      "dividend": 2.0,
+      "exDate": "2026-08-25",
+      "recordDate": "2026-08-26",
+      "purpose": "Dividend - Rs 2 Per Share",
+      "price": 1017.0,
+      "rsi": 68.73400807276528,
+      "dividendYield": 0.19665683382497542
     },
     {
       "symbol": "PFC",
@@ -624,9 +690,9 @@
       "exDate": "2026-08-27",
       "recordDate": "2026-08-27",
       "purpose": "Interim Dividend - Rs 3.90 Per Share",
-      "price": 374.45,
-      "rsi": 25.99954093279463,
-      "dividendYield": 1.04152757377487
+      "price": 373.5,
+      "rsi": 25.16752222987789,
+      "dividendYield": 1.0441767068273091
     },
     {
       "symbol": "PGHL",
@@ -635,9 +701,9 @@
       "exDate": "2026-08-27",
       "recordDate": "2026-08-27",
       "purpose": "Dividend - Rs 45 Per Share",
-      "price": 5838.0,
-      "rsi": 27.977119774431443,
-      "dividendYield": 0.7708119218910586
+      "price": 5796.5,
+      "rsi": 26.893396294478904,
+      "dividendYield": 0.7763305442939705
     },
     {
       "symbol": "THOMASCOOK",
@@ -646,9 +712,9 @@
       "exDate": "2026-08-27",
       "recordDate": "2026-08-27",
       "purpose": "Dividend - Rs 0.50 Per Share",
-      "price": 102.4,
-      "rsi": 48.152666852972544,
-      "dividendYield": 0.48828125
+      "price": 102.26,
+      "rsi": 45.67910508177351,
+      "dividendYield": 0.4889497359671426
     },
     {
       "symbol": "BBOX",
@@ -657,9 +723,20 @@
       "exDate": "2026-08-28",
       "recordDate": "2026-08-28",
       "purpose": "Dividend - Re 1 Per Share",
-      "price": 777.4,
-      "rsi": 45.163437545158935,
-      "dividendYield": 0.12863390789812193
+      "price": 771.5,
+      "rsi": 44.08230355324813,
+      "dividendYield": 0.12961762799740764
+    },
+    {
+      "symbol": "CORALFINAC",
+      "company": "Coral India Finance & Housing Limited",
+      "dividend": 0.2,
+      "exDate": "2026-08-28",
+      "recordDate": "2026-08-28",
+      "purpose": "Dividend - Re 0.20 Per Share",
+      "price": 34.46,
+      "rsi": 59.53175195305892,
+      "dividendYield": 0.5803830528148578
     },
     {
       "symbol": "DYNAMATECH",
@@ -668,9 +745,31 @@
       "exDate": "2026-08-28",
       "recordDate": "2026-08-28",
       "purpose": "Dividend - Rs 5 Per Share",
-      "price": 11770.0,
-      "rsi": 65.88950897085529,
-      "dividendYield": 0.04248088360237893
+      "price": 11668.0,
+      "rsi": 63.92707200085439,
+      "dividendYield": 0.04285224545766198
+    },
+    {
+      "symbol": "GAEL",
+      "company": "Gujarat Ambuja Exports Limited",
+      "dividend": 0.3,
+      "exDate": "2026-08-28",
+      "recordDate": "2026-08-28",
+      "purpose": "Dividend - Re 0.30 Per Share",
+      "price": 174.12,
+      "rsi": 57.58162874589229,
+      "dividendYield": 0.17229496898690555
+    },
+    {
+      "symbol": "HONASA",
+      "company": "Honasa Consumer Limited",
+      "dividend": 3.0,
+      "exDate": "2026-08-28",
+      "recordDate": "2026-08-28",
+      "purpose": "Dividend - Rs 3 Per Share",
+      "price": 477.0,
+      "rsi": 56.43057630266435,
+      "dividendYield": 0.628930817610063
     },
     {
       "symbol": "NBCC",
@@ -679,9 +778,42 @@
       "exDate": "2026-08-28",
       "recordDate": "2026-08-28",
       "purpose": "Dividend - Re 0.46 Per Share",
-      "price": 88.0,
-      "rsi": 28.48527970616159,
-      "dividendYield": 0.5227272727272727
+      "price": 87.44,
+      "rsi": 27.277505303428768,
+      "dividendYield": 0.5260750228728271
+    },
+    {
+      "symbol": "PARAS",
+      "company": "Paras Defence and Space Technologies Limited",
+      "dividend": 1.0,
+      "exDate": "2026-08-28",
+      "recordDate": "2026-08-28",
+      "purpose": "Dividend - Re 1 Per Share",
+      "price": 1478.0,
+      "rsi": 69.53372679820063,
+      "dividendYield": 0.06765899864682003
+    },
+    {
+      "symbol": "POLYMED",
+      "company": "Poly Medicure Limited",
+      "dividend": 3.5,
+      "exDate": "2026-08-28",
+      "recordDate": "2026-08-29",
+      "purpose": "Dividend - Rs 3.50 Per Share",
+      "price": 1771.9,
+      "rsi": 55.638126890241566,
+      "dividendYield": 0.1975280772052599
+    },
+    {
+      "symbol": "PROTEAN",
+      "company": "Protean eGov Technologies Limited",
+      "dividend": 10.0,
+      "exDate": "2026-08-28",
+      "recordDate": "2026-08-28",
+      "purpose": "Dividend - Rs 10 Per Share",
+      "price": 548.2,
+      "rsi": 36.08215856650834,
+      "dividendYield": 1.8241517694272162
     },
     {
       "symbol": "SWANCORP",
@@ -690,9 +822,20 @@
       "exDate": "2026-08-28",
       "recordDate": "2026-08-28",
       "purpose": "Dividend - Re 0.15 Per Share",
-      "price": 304.55,
-      "rsi": 41.116599196943135,
-      "dividendYield": 0.04925299622393696
+      "price": 303.2,
+      "rsi": 39.5108184511371,
+      "dividendYield": 0.04947229551451188
+    },
+    {
+      "symbol": "WHIRLPOOL",
+      "company": "Whirlpool of India Limited",
+      "dividend": 5.0,
+      "exDate": "2026-08-28",
+      "recordDate": "2026-08-28",
+      "purpose": "Dividend - Rs 5 Per Share",
+      "price": 757.45,
+      "rsi": 36.02254878769408,
+      "dividendYield": 0.6601095781899795
     },
     {
       "symbol": "GANESHHOU",
@@ -701,9 +844,42 @@
       "exDate": "2026-08-31",
       "recordDate": "2026-08-31",
       "purpose": "Dividend - Rs 1.50 Per Share",
-      "price": 847.0,
-      "rsi": 62.25943544267957,
-      "dividendYield": 0.1770956316410862
+      "price": 826.2,
+      "rsi": 58.542958422991006,
+      "dividendYield": 0.18155410312273057
+    },
+    {
+      "symbol": "GLENMARK",
+      "company": "Glenmark Pharmaceuticals Limited",
+      "dividend": 2.5,
+      "exDate": "2026-08-31",
+      "recordDate": "2026-08-31",
+      "purpose": "Dividend - Rs 2.50 Per Share",
+      "price": 2227.1,
+      "rsi": 45.964957664014165,
+      "dividendYield": 0.11225360334066724
+    },
+    {
+      "symbol": "IONEXCHANG",
+      "company": "ION Exchange (India) Limited",
+      "dividend": 1.25,
+      "exDate": "2026-08-31",
+      "recordDate": "2026-08-31",
+      "purpose": "Dividend - Rs 1.25 Per Share",
+      "price": 371.3,
+      "rsi": 36.615675120820136,
+      "dividendYield": 0.33665499596014004
+    },
+    {
+      "symbol": "MASTEK",
+      "company": "Mastek Limited",
+      "dividend": 16.0,
+      "exDate": "2026-08-31",
+      "recordDate": "2026-08-31",
+      "purpose": "Dividend - Rs 16 Per Share",
+      "price": 1720.7,
+      "rsi": 42.98221312519759,
+      "dividendYield": 0.9298541291334922
     },
     {
       "symbol": "TRIVENI",
@@ -712,9 +888,9 @@
       "exDate": "2026-08-31",
       "recordDate": "2026-08-31",
       "purpose": "Dividend - Rs 1.25 Per Share",
-      "price": 276.52,
-      "rsi": 43.61989029386495,
-      "dividendYield": 0.452046868219297
+      "price": 286.77,
+      "rsi": 48.06954903067655,
+      "dividendYield": 0.4358893887087213
     },
     {
       "symbol": "PGHH",
@@ -723,9 +899,9 @@
       "exDate": "2026-09-01",
       "recordDate": "2026-09-01",
       "purpose": "Dividend - Rs 60 Per Share",
-      "price": 8317.0,
-      "rsi": 32.29931721119861,
-      "dividendYield": 0.7214139713839125
+      "price": 8253.5,
+      "rsi": 28.22120970539767,
+      "dividendYield": 0.7269643181680499
     },
     {
       "symbol": "TBZ",
@@ -734,9 +910,9 @@
       "exDate": "2026-09-02",
       "recordDate": "2026-09-02",
       "purpose": "Dividend - Rs 2.50 Per Share",
-      "price": 251.05,
-      "rsi": 49.44954003650997,
-      "dividendYield": 0.995817566221868
+      "price": 248.45,
+      "rsi": 47.98368693646901,
+      "dividendYield": 1.0062386798148522
     },
     {
       "symbol": "AIAENG",
@@ -745,9 +921,9 @@
       "exDate": "2026-09-04",
       "recordDate": "2026-09-05",
       "purpose": "Dividend - Rs 16 Per Share",
-      "price": 4447.6,
-      "rsi": 40.909826224134406,
-      "dividendYield": 0.3597445813472434
+      "price": 4389.9,
+      "rsi": 38.33202063280437,
+      "dividendYield": 0.36447299482903944
     },
     {
       "symbol": "COALINDIA",
@@ -756,9 +932,9 @@
       "exDate": "2026-09-04",
       "recordDate": "2026-09-04",
       "purpose": "Dividend - Rs 5.25 Per Share",
-      "price": 406.9,
-      "rsi": 32.194284616503026,
-      "dividendYield": 1.290243303022856
+      "price": 399.15,
+      "rsi": 25.93053289863593,
+      "dividendYield": 1.315295001878993
     },
     {
       "symbol": "TEGA",
@@ -767,9 +943,9 @@
       "exDate": "2026-09-11",
       "recordDate": "2026-09-14",
       "purpose": "Dividend - Rs 2 Per Share",
-      "price": 1733.9,
-      "rsi": 64.36260982386861,
-      "dividendYield": 0.1153469058192514
+      "price": 1695.8,
+      "rsi": 57.70805451217642,
+      "dividendYield": 0.11793843613633684
     },
     {
       "symbol": "AGI",
@@ -778,9 +954,9 @@
       "exDate": "2026-09-15",
       "recordDate": "2026-09-15",
       "purpose": "Dividend - Rs 7 Per Share",
-      "price": 711.7,
-      "rsi": 56.62055872891671,
-      "dividendYield": 0.9835604889700715
+      "price": 707.2,
+      "rsi": 52.5028872180077,
+      "dividendYield": 0.9898190045248868
     },
     {
       "symbol": "RELAXO",
@@ -789,9 +965,9 @@
       "exDate": "2026-09-18",
       "recordDate": "2026-09-18",
       "purpose": "Dividend - Rs 3.50 Per Share",
-      "price": 383.95,
-      "rsi": 44.430752808719426,
-      "dividendYield": 0.911577028258888
+      "price": 376.75,
+      "rsi": 38.843673258149984,
+      "dividendYield": 0.92899800928998
     }
   ]
 }
